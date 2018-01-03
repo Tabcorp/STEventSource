@@ -1,7 +1,7 @@
 //  Copyright © 2016 Scott Talbot. All rights reserved.
 
-#import <STEventSource/STEventSourceEventAccumulator.h>
-#import <STEventSource/STEventSourceEventAccumulator+Internal.h>
+#import <STEventSourceEventAccumulator.h>
+#import <STEventSourceEventAccumulator+Internal.h>
 
 
 NSString * const STEventSourceEventAccumulatorErrorDomain = @"STEventSourceEventAccumulatorError";

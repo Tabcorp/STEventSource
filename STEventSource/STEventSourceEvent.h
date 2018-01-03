@@ -2,7 +2,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <STEventSource/STEventSource.h>
+#import <STEventSource.h>
 
 
 NS_ASSUME_NONNULL_BEGIN

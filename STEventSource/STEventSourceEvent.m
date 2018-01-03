@@ -1,6 +1,6 @@
 //  Copyright © 2016 Scott Talbot. All rights reserved.
 
-#import <STEventSource/STEventSourceEvent.h>
+#import <STEventSourceEvent.h>
 
 
 @implementation STEventSourceEvent
